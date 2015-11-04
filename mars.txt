@@ -1,9 +1,4 @@
 Ciao ciao ciao
 hello hello hello
 bye bye bye
-<<<<<<< HEAD
-bla bla bla
-=======
-new edit after branching
-another edit in the new branch.
->>>>>>> headings
+simplified
